@@ -32,6 +32,7 @@ Train a globally competent medical data scientists.
     - Docker/DevOps
 
 
+
 4. Collaboration and Globalization
 대부분의 연구는 국내외 협력 연구로 진행됩니다. 이를 위하여 하기 분야의 기본적인 능력을 함양합니다.
     - Communication skill

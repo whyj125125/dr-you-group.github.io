@@ -3,6 +3,7 @@ layout: home
 main: true
 title: Publications
 permalink: /publications/
+order: 4
 ---
 
 ## List of the featured published papers in peer-reviewed journals
