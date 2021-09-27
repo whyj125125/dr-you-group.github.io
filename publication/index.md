@@ -8,7 +8,7 @@ order: 4
 
 ## List of the featured published papers in peer-reviewed journals
 Dr. You's research group members are in bold.
-First authors among Dr. You's research group members are indicated by asterisk*. Senior or corresponding authors among Dr. You's research group are underlined. The impact factors are calculated based on a year prior to the publication.
+First authors among Dr. You's research group members are indicated by asterisk. Senior or corresponding authors among Dr. You's research group are underlined. The impact factors are calculated based on a year prior to the publication.
 
 ### 2021
 - **Seng Chan You***, Harlan M. Krumholz, Marc A. Suchard, Martijn J. Schuemie, George Hripcsak, RuiJun Chen, Steven Shea, et al. “Comprehensive Comparative Effectiveness and Safety of First-Line β-Blocker Monotherapy in Hypertensive Patients: A Large-Scale Multicenter Observational Study.” *Hypertension (IF 10.19)*, March 29, 2021, HYPERTENSIONAHA12016402. https://doi.org/10.1161/HYPERTENSIONAHA.120.16402.
