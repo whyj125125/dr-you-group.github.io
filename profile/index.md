@@ -39,3 +39,8 @@ Interests: Data Analysis, Machine Learning, Deep Learning
 #### Yeonchan Seong, MA
 Major: Health Administration, Sociology   
 Interests: Social Network Analysis, Machine Learning, Deep Learning
+
+![YJLee](https://user-images.githubusercontent.com/97265478/152458517-0091878d-14a1-4940-8d75-5ec5bb6b00aa.jpg)
+#### Yongjae Lee, MA
+Major: Economics
+Interests: Health Economics, Behavior Economics, Machine Learning, Deep Learning
